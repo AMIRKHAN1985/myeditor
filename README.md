@@ -1,5 +1,5 @@
 # myeditor
-Full responsive Code Editor for Python, Java , JavaScript  C and C++ and many more , work well in Split window
+Full Responsive Code Editor for Python, Java , JavaScript  C and C++ and many more , Work Well in Split Window.
 
 
 App Link:
